@@ -1,5 +1,5 @@
 # Descarga_ArturAlertBattery
-ArturAlertBattery es una aplicación de alerta de batería diseñada para ayudar a los usuarios a gestionar la carga de su laptop. Monitorea el nivel de batería y envía notificaciones con sonido cuando la carga alcanza niveles críticos, ya sea para desconectar para conectar el cargador. Esto garantiza que la laptop funcione de manera eficiente y ayuda a prolongar la vida útil de la batería, evitando sobrecargas o descargas profundas. Su interfaz simple e intuitiva.
+ArturAlertBattery es una aplicación de alerta de batería diseñada para ayudar a los usuarios a gestionar la carga de su laptop. Monitorea el nivel de batería y envía notificaciones con sonido cuando la carga alcanza niveles críticos, ya sea para desconectar ó conectar el cargador. Esto garantiza que la laptop funcione de manera eficiente y ayuda a prolongar la vida útil de la batería, evitando sobrecargas o descargas profundas. Su interfaz simple e intuitiva.
 
 ## Install Program
 ---
