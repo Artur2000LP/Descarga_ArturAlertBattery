@@ -12,7 +12,6 @@ ArturAlertBattery es una aplicación de alerta de batería diseñada para ayudar
   <img src="https://github.com/user-attachments/assets/7a8cb347-35c0-4998-b00e-51e2952035ed" width="300"/>
 </div>
 
-
 ## Notificación de la Batería Baja
 <div style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/ec98ded8-18d6-40c5-9d7c-4d603359fb6f" width="300"/>
