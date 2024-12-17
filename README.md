@@ -2,8 +2,8 @@
 
 ## Install Program
 ---
-*  ArturAlertBattery2.exe  version 2
-*  ArturAlertBattery.exe  version 1
+*  ArturAlertBattery2.exe  version 2 recomendado 
+*  ArturAlertBattery.exe  version 1  
 
 ## Ejemlpo de prueva
 ### Icono del Programa
@@ -14,7 +14,7 @@
 
 ## Notificación de la Batería Baja
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/4984ea4a-9345-4be1-a3b7-80dbafa2a3af" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ec98ded8-18d6-40c5-9d7c-4d603359fb6f" width="300"/>
 </div>
 Este es el **icono de notificación** cuando la batería está baja.
 ---
