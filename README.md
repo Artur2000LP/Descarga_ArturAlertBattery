@@ -21,6 +21,6 @@ Este es el **icono de notificación** cuando la batería está baja.
 
 ## Notificación de la Batería Alta
 <div style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/c903b88d-d457-4d51-98d2-e1bd38ffa692" width="300"/>
+  <img src="https://github.com/user-attachments/assets/8f04d48f-f136-4257-bf4d-d3c00751ff09" width="300"/>
 </div>
 Este es el **icono de notificación** cuando la batería está alta, por encima del porcentaje máximo que se ha configurado.
