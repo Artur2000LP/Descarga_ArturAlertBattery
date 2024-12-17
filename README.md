@@ -3,7 +3,8 @@
 ## Install Program
 
 ---
-*  ArturAlertBattery.exe 
+*  ArturAlertBattery2.exe  version 2
+*  ArturAlertBattery.exe  version 1
 
 ## Ejemlpo de prueva
 ### Icono del Programa
